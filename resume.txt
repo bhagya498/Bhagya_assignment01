@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bhagya R - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+        }
+        .contact-info p {
+            margin: 5px 0;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #0056b3;
+            padding-bottom: 5px;
+        }
+        .skills, .hobbies {
+            list-style: none;
+            padding: 0;
+        }
+        .skills li, .hobbies li {
+            background: #f0f0f0;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .declaration {
+            font-style: italic;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bhagya R</h1>
+            <div class="contact-info">
+                <p><strong>Phone:</strong> 9901655343</p>
+                <p><strong>Email:</strong> <a href="mailto:bhagyabhag2428.r@gmail.com">bhagyabhag2428.r@gmail.com</a></p>
+            </div>
+        </header>
+
+        <section class="objective section">
+            <h2>Objective</h2>
+            <p>To obtain employment with a company to learn and implement new skills and knowledge.</p>
+        </section>
+
+        <section class="education section">
+            <h2>Education</h2>
+            <p><strong>Jyoti Nivas College Autonomous, Bangalore</strong> (2023-2025)<br>
+            Master of Computer Application (Pursuing)</p>
+            <p><strong>Administrative Management College</strong> (2019-2021)<br>
+            Bachelors of Computer Application</p>
+            <p><strong>National Institute of Open Schooling</strong> (2018-2019)</p>
+            <p><strong>S.F.S High School</strong> (2015-2016)</p>
+        </section>
+
+        <section class="project section">
+            <h2>Project</h2>
+            <p><strong>Online Shopping System</strong></p>
+        </section>
+
+        <section class="interests section">
+            <h2>Area of Interest</h2>
+            <p>Java</p>
+        </section>
+
+        <section class="language section">
+            <h2>Language</h2>
+            <p>English, Kannada</p>
+        </section>
+
+        <section class="skills section">
+            <h2>Skills</h2>
+            <ul class="skills">
+                <li>Java</li>
+                <li>C</li>
+                <li>C++</li>
+            </ul>
+        </section>
+
+        <section class="hobbies section">
+            <h2>Hobbies</h2>
+            <ul class="hobbies">
+                <li>Listening to music</li>
+                <li>Watching movies</li>
+            </ul>
+        </section>
+
+        <section class="declaration section">
+            <h2>Declaration</h2>
+            <p>I hereby declare that the information furnished above is true to the best of my knowledge.</p>
+        </section>
+    </div>
+</body>
+</html>
